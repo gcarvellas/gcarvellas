@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+### About me: 
+
+- :pencil: Cofounder of [Artisan 3D](https://github.com/Artisan-3D)<br>
+- :earth_americas: Lead Developer of [Build The Earth New Jersey](https://github.com/BuildTheEarthNewJersey)<br>
+- :jp: Student Developer at [Castle Point Anime Convention](https://github.com/castlepointanime)<br>
+- :notebook: Cybersecurity Student at [Stevens Institute of Technology](https://www.stevens.edu/)<br>
 
 <!--
 **gcarvellas/gcarvellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
